@@ -12,11 +12,11 @@ public class Controller {
         return "deployment 1";
     }
 
- /*   @GetMapping("/test2")
+   @GetMapping("/test2")
     public String test2(){
         return "deployment 2";
     }
-
+/*
     @GetMapping("/test2")
     public String test3(){
         return "deployment 3";
